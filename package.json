@@ -1,6 +1,6 @@
 {
   "name": "until",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An event collector of nodejs' EventEmitter",
   "keywords": ["event", "async", "node"],
   "author": {
